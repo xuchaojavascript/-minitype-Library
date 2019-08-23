@@ -9,7 +9,7 @@
    		_Xc(select)
     </script>
 修改语法：
-    <script nick="$" src="Fy.js"></script>
+    <script nick="$" src="Xc.js"></script>
     <script>
    		$(select)
     </script>
